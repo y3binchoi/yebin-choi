@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 </div>
 
 <br/>
-
-[![yebin's github stats](https://github-readme-stats.vercel.app/api?username=yebin-choi)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![yebin's github stats](https://github-readme-stats.vercel.app/api?username=yebin-choi)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yebin-choi&theme=tokyonight)](https://git.io/streak-stats) -->
 
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yebin-choi&theme=nord_dark) -->
